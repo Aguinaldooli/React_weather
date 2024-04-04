@@ -1,0 +1,21 @@
+.TempContainer {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .Cidade {
+    display: flex;
+    align-items: center;
+  }
+  
+  .Cidade h1 {
+    margin: 0 10px 0 0;
+  }
+  
+  .Condicao h4 {
+    margin: 5px 0;
+  }
+  
